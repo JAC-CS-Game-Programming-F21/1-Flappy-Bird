@@ -111,7 +111,7 @@ context.drawImage(images.ground, -this.groundScroll, CANVAS_HEIGHT - images.grou
 
 In order to "loop" each image, we are rendering a small portion of it at a time and shifting it left each frame, until we reach the looping point and reset it back to (0, 0). This means that as the scrolling takes place, the portions of the images that we've already seen will be to the left of the screen at a negative x coordinate until they are shifted back right to recommence the looping effect.
 
-[Here's a visualization that may also help understand what is actually happening!](https://codepen.io/vsingh7/pen/bGRVrXB).
+[Here's a visualization that may also help understand what is actually happening!](https://codepen.io/vsingh7/pen/bGRVrXB)
 
 ## 🐤 Flappy-Bird-2 ("The Bird Update")
 
