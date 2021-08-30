@@ -111,20 +111,7 @@ context.drawImage(images.ground, -this.groundScroll, CANVAS_HEIGHT - images.grou
 
 In order to "loop" each image, we are rendering a small portion of it at a time and shifting it left each frame, until we reach the looping point and reset it back to (0, 0). This means that as the scrolling takes place, the portions of the images that we've already seen will be to the left of the screen at a negative x coordinate until they are shifted back right to recommence the looping effect.
 
-Here's a visualization that may also help understand what is actually happening:
-
-```iframe
-height="445"
-width="100%"
-scrolling="no"
-title="Parallax Scrolling"
-src="https://codepen.io/vsingh7/embed/bGRVrXB?default-tab=result"
-frameborder="no"
-loading="lazy"
-allowtransparency="true"
-allowfullscreen="true"
-textContent="See the Pen <a href='https://codepen.io/vsingh7/pen/bGRVrXB'>Parallax Scrolling</a> by Vikram Singh (<a href='https://codepen.io/vsingh7'>@vsingh7</a>) on <a href='https://codepen.io'>CodePen</a>."
-```
+[Here's a visualization that may also help understand what is actually happening!](https://codepen.io/vsingh7/pen/bGRVrXB).
 
 ## 🐤 Flappy-Bird-2 ("The Bird Update")
 
