@@ -38,7 +38,7 @@ Flappy-Bird-0 simply draws two images to the screen - a foreground and a backgro
 
 > 💡 Notice we've encapsulated our core game engine logic into a dedicated `Game.js` class as well as declared a `globals.js` file for any variables/constants that will be required throughout our game.
 
-!> Be extremely cautious when adding things to `globals.js` since it can easily become bad practice. Always ask yourself before adding something to this file: "does this **NEED** to potentially be available _anywhere_ throughout my codebase?". If the answer is no, think of how you can pass that value internally in your code.
+> 🚨 Be extremely cautious when adding things to `globals.js` since it can easily become bad practice. Always ask yourself before adding something to this file: "does this **NEED** to potentially be available _anywhere_ throughout my codebase?". If the answer is no, think of how you can pass that value internally in your code.
 
 You should be able to recognize most of the code in this update from last week aside from a new `images` variable:
 
