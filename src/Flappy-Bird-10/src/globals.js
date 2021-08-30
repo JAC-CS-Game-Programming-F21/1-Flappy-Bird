@@ -53,6 +53,7 @@ export const sounds = {
 	music: new Audio('./sounds/marios_way.mp3'), // https://freesound.org/people/xsgianni/sounds/388079/
 };
 
+// Volume should be a value between 0 (min) and 1 (max).
 sounds.jump.volume = 0.01;
 sounds.explosion.volume = 0.01;
 sounds.hurt.volume = 0.01;
