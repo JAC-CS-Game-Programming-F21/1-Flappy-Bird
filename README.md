@@ -1,5 +1,7 @@
 # 🐤 Flappy Bird
 
+You can view the pretty version of the notes [here](https://jac-cs-game-programming-f21.github.io/Notes/#/1-Flappy-Bird).
+
 ## 🎯 Objectives
 
 - **Images (Sprites)**: How can we load images from memory to our game and draw them on the screen?
