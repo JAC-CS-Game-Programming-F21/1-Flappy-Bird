@@ -1,6 +1,6 @@
 /**
  * Flappy-Bird-4
- * "The Infinite Pipe Update"
+ * The "Infinite Pipe" Update
  *
  * Original Lua by: Colton Ogden (cogden@cs50.harvard.edu)
  * Adapted to JS by: Vikram Singh (vikram.singh@johnabbott.qc.ca)

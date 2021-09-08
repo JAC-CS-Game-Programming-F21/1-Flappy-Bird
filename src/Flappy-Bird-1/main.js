@@ -1,6 +1,6 @@
 /**
  * Flappy-Bird-1
- * "The Parallax Update"
+ * The "Parallax" Update
  *
  * Original Lua by: Colton Ogden (cogden@cs50.harvard.edu)
  * Adapted to JS by: Vikram Singh (vikram.singh@johnabbott.qc.ca)
