@@ -1,6 +1,6 @@
 # 🐤 Flappy Bird
 
-You can view the pretty version of the notes [here](https://jac-cs-game-programming-f21.github.io/Notes/#/1-Flappy-Bird).
+You can view the pretty version of the notes [here](https://jac-cs-game-programming-f21.github.io/Notes/#/1-Flappy-Bird/).
 
 ## 🎯 Objectives
 
